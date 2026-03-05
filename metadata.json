@@ -1,0 +1,5 @@
+{
+  "name": "Remix: GESTÃO PELD",
+  "description": "Sistema para lançamento estruturado de despesas do projeto PELD, com validação de regras do CNPq e integração com Google Sheets. Versão Final",
+  "requestFramePermissions": []
+}
